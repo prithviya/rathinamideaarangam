@@ -1,0 +1,82 @@
+#prize{
+    display:block !important;
+}
+
+#prize1{
+    display:none !important;
+}
+
+#title{
+    display:block !important;
+}
+
+#title1{
+    display:none !important;
+}
+#soap{
+    display: !important;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    h2{
+        font-size: 20px !important;
+    }
+
+    #heading{
+        font-size: 20px !important;
+    }
+
+    p {
+        font-size: 15px !important;
+    }
+
+    table{
+        font-size: 10px !important;
+        width: 80% !important;
+        margin-left: 10% !important;
+    }
+
+    
+
+    #ft{
+        font-size: 10px !important;
+    }
+    #ss{
+        font-size: 10px !important;
+    }
+
+    .prize{
+        padding:0% !important;
+    }
+    .soap{
+        display: !important;
+    }
+
+    a #heading{
+        height: 30% !important;
+    }
+
+    #prize2{
+        display:none !important;
+    }
+
+    #prize1{
+        display:block !important;
+    }
+
+    .cardsdiv{
+        flex-direction: column !important;
+        width: 50% !important;
+        margin-left: 30% !important;
+    }
+
+    #title{
+        display:none !important;
+    }
+
+    #title1{
+        display:block !important;
+        padding-top: 0.35em !important;
+    }
+
+}
